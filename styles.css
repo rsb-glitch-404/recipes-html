@@ -13,7 +13,10 @@ a,
     text-align: center;
 }
 
-.ingredients,
-.methods {
-    display: inline-flex;
+
+.about {
+    box-sizing: border-box;
+    padding-left: 80px;
+    padding-right: 80px;
+    border: 10px red;
 }
