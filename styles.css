@@ -22,5 +22,12 @@ a,
 }
 
 .ingredients {
-    border: 1pc solid red;
+    border: 1px solid red;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.methods {
+    border: 1px solid red;
+    margin-top: 30px;
 }
