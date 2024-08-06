@@ -1,0 +1,14 @@
+* {
+    background-color: #1f1f1f;
+    color: #d3d3d3;
+}
+
+a,
+.link {
+    color: #e7aca8;
+}
+
+.title,
+.congratulations {
+    text-align: center;
+}
