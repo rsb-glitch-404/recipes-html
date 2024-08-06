@@ -12,3 +12,8 @@ a,
 .congratulations {
     text-align: center;
 }
+
+.ingredients,
+.methods {
+    display: inline-flex;
+}
