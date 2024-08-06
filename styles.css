@@ -18,5 +18,9 @@ a,
     box-sizing: border-box;
     padding-left: 80px;
     padding-right: 80px;
-    border: 10px red;
+    border: 1px solid #d3d3d3;
+}
+
+.ingredients {
+    border: 1pc solid red;
 }
